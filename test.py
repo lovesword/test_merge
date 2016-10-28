@@ -1,0 +1,1 @@
+keyDict = dict.fromkeys(('configName','illegalName','notExistName','spaceName','nullName'),dict())
