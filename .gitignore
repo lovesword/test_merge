@@ -1,0 +1,7 @@
+.idea/*
+*.pyc
+*.tar.gz
+*.coverage
+version.txt
+artifact/
+results/
